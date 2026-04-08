@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Anew Contruccion & renovation llc",
+    "phone": "+13163059287",
+    "category": "general contractor",
+    "city": "Wichita",
+    "state": "KS"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-trust-navy",
+      "categoryGroup": "general-contractor",
+      "name": "Trust Navy",
+      "recipeFile": "general-contractor/trust-navy.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1a3151",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Montserrat",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Wichita's Trusted Contractor",
+      "heroSubline": "Anew Contruccion & Renovation LLC: Building and renovating homes with quality and care. Serving Wichita, KS and surrounding communities.",
+      "aboutTitle": "Building Wichita, One Project at a Time",
+      "aboutText": [
+        "Anew Contruccion & Renovation LLC started with a simple goal: to provide homeowners in Wichita with reliable and high-quality general contracting services. Founded by [Founder's Name] over a decade ago, we've grown from a small team to a trusted name in home improvement across Sedgwick County.",
+        "We believe in transparent communication, meticulous attention to detail, and a commitment to exceeding expectations. From initial consultation to final walkthrough, we prioritize your vision and ensure a seamless and stress-free renovation experience. Our approach is rooted in honesty, integrity, and a genuine passion for creating spaces that homeowners love.",
+        "As a local Wichita business, we're deeply invested in the community. We support local initiatives and strive to contribute positively to the neighborhoods we serve. We understand the unique needs and challenges of Wichita homes, from weathering the Kansas storms to maintaining the charm of College Hill residences."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Wichita's housing styles and climate considerations."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals dedicated to delivering exceptional results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Prioritizing your vision and ensuring a positive experience."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Anew Contruccion & Renovation LLC today for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Wichita home.",
+        "description": "Anew Contruccion & Renovation LLC specializes in creating stunning and functional kitchens tailored to your lifestyle. We understand that a kitchen remodel is a significant investment, and we're committed to delivering exceptional results that enhance your home's value and your enjoyment of the space.\n\nOur kitchen remodeling services include everything from design and planning to demolition, installation, and finishing touches. We work with a wide range of materials and styles, from classic to contemporary, ensuring that your new kitchen reflects your personal taste. Whether you're looking to update your cabinets and countertops, install new appliances, or completely reconfigure your layout, we have the expertise to bring your vision to life.\n\nWe handle every aspect of the project, including plumbing, electrical work, and ventilation, ensuring that all work is done to code and meets our high standards of quality. We also pay close attention to detail, ensuring that every element of your new kitchen is perfectly installed and finished.\n\nWe understand that kitchen remodels can be disruptive, so we strive to minimize the impact on your daily life. We maintain a clean and organized work environment and communicate regularly with you throughout the project to keep you informed of our progress.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Construction",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically takes between 4-8 weeks. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary to move out, you may find it more comfortable to do so, especially during the demolition phase. We'll work with you to minimize disruption and create a safe and manageable environment."
+          },
+          {
+            "question": "What are the latest trends in kitchen remodeling?",
+            "answer": "Popular trends in Wichita include open-concept designs, quartz countertops, energy-efficient appliances, and smart home integration. We stay up-to-date on the latest trends and can help you incorporate them into your design."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a relaxing and functional bathroom retreat in your Wichita home.",
+        "description": "Anew Contruccion & Renovation LLC offers comprehensive bathroom remodeling services to transform your outdated or inefficient bathroom into a modern and comfortable space. Whether you're looking for a simple upgrade or a complete renovation, we have the expertise to deliver exceptional results.\n\nOur bathroom remodeling services include everything from design and planning to demolition, plumbing, electrical work, tiling, and fixture installation. We work with a wide range of materials and styles, from classic to contemporary, ensuring that your new bathroom reflects your personal taste and meets your functional needs.\n\nWe understand the importance of proper ventilation in Wichita bathrooms to prevent mold and mildew growth, especially given our humid summers. We'll ensure that your new bathroom has adequate ventilation to maintain a healthy and comfortable environment.\n\nWe handle all aspects of the project, ensuring that all work is done to code and meets our high standards of quality. We also pay close attention to detail, ensuring that every element of your new bathroom is perfectly installed and finished. From new showers and tubs to vanities and toilets, we'll create a space that you'll love to use every day.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Plumbing/Electrical",
+          "Step 4: Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Water Conservation"
+        ],
+        "faq": [
+          {
+            "question": "How much does a bathroom remodel cost in Wichita?",
+            "answer": "The cost of a bathroom remodel varies depending on the size and scope of the project, but typically ranges from $5,000 to $20,000. We'll provide a detailed estimate based on your specific needs and preferences."
+          },
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel takes between 1-3 weeks, depending on the complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What are some popular bathroom remodeling trends in Wichita?",
+            "answer": "Popular trends include walk-in showers, floating vanities, heated floors, and energy-efficient lighting. We can help you incorporate these trends into your design."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Turn your unfinished basement into valuable living space.",
+        "description": "Anew Contruccion & Renovation LLC specializes in transforming unfinished basements into functional and comfortable living spaces. Whether you envision a home theater, a game room, a home office, or an extra bedroom, we have the expertise to bring your vision to life.\n\nOur basement finishing services include everything from framing and insulation to electrical work, plumbing, drywall, flooring, and finishing touches. We'll ensure that your finished basement is properly insulated and waterproofed to prevent moisture problems and maintain a comfortable temperature year-round, crucial in Wichita's climate.\n\nWe handle all aspects of the project, ensuring that all work is done to code and meets our high standards of quality. We also pay close attention to detail, ensuring that every element of your new basement is perfectly installed and finished. We'll create a space that you and your family will enjoy for years to come.\n\nWe also understand the importance of proper egress in basements, especially for safety in case of emergencies. We'll ensure that your finished basement meets all egress requirements, including proper windows and doors.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Framing & Insulation",
+          "Step 3: Electrical & Plumbing",
+          "Step 4: Finishing & Detailing"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Increased Home Value",
+          "Improved Comfort",
+          "Enhanced Functionality"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to finish a basement in Wichita?",
+            "answer": "The cost of finishing a basement varies depending on the size and scope of the project, but typically ranges from $15,000 to $50,000. We'll provide a detailed estimate based on your specific needs and preferences."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, you will typically need a permit to finish your basement in Wichita. We can help you obtain the necessary permits and ensure that all work is done to code."
+          },
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "The duration of a basement finishing project varies depending on the size and scope of the project, but typically takes between 4-8 weeks. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio.",
+        "description": "Anew Contruccion & Renovation LLC designs and builds custom decks and patios that enhance your outdoor living space and increase your home's value. Whether you're looking for a cozy space to relax and unwind or a large area for entertaining guests, we can create the perfect outdoor oasis for your Wichita home.\n\nOur deck and patio construction services include everything from design and planning to material selection, construction, and finishing touches. We work with a variety of materials, including wood, composite, and concrete, ensuring that your new deck or patio is durable, weather-resistant, and aesthetically pleasing.\n\nWe understand the importance of proper drainage and foundation for decks and patios in Wichita's climate, which experiences both heavy rain and freezing temperatures. We'll ensure that your new deck or patio is built to withstand the elements and last for years to come.\n\nWe handle all aspects of the project, ensuring that all work is done to code and meets our high standards of quality. We also pay close attention to detail, ensuring that every element of your new deck or patio is perfectly installed and finished. From railings and stairs to lighting and landscaping, we'll create an outdoor space that you'll love to use year-round.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Material Selection & Permitting",
+          "Step 3: Construction & Installation",
+          "Step 4: Finishing & Landscaping"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Increased Home Value",
+          "Enhanced Aesthetics",
+          "Improved Entertainment Options"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to build a deck or patio in Wichita?",
+            "answer": "The cost of building a deck or patio varies depending on the size, materials, and complexity of the project, but typically ranges from $5,000 to $30,000. We'll provide a detailed estimate based on your specific needs and preferences."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Yes, you will typically need a permit to build a deck or patio in Wichita. We can help you obtain the necessary permits and ensure that all work is done to code."
+          },
+          {
+            "question": "What are the best materials for decks and patios in Wichita?",
+            "answer": "Popular materials include treated lumber, composite decking, and concrete pavers. We can help you choose the best materials based on your budget, style, and maintenance preferences."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with reliable roofing repair and replacement.",
+        "description": "Anew Contruccion & Renovation LLC provides comprehensive roofing services to protect your home from the elements. Whether you need a minor repair or a complete roof replacement, we have the expertise to ensure that your roof is strong, durable, and weather-resistant.\n\nOur roofing services include roof inspections, leak repairs, shingle replacement, and complete roof replacements. We work with a variety of roofing materials, including asphalt shingles, metal roofing, and tile roofing, ensuring that your new roof is both aesthetically pleasing and long-lasting.\n\nWe understand the importance of a properly installed roof in Wichita to protect your home from severe weather, including high winds, hail, and heavy rain. We'll ensure that your roof is installed to code and meets our high standards of quality.\n\nWe handle all aspects of the project, ensuring that all work is done safely and efficiently. We also pay close attention to detail, ensuring that every element of your new roof is perfectly installed and finished. From flashing and ventilation to gutters and downspouts, we'll create a roofing system that will protect your home for years to come.",
+        "process": [
+          "Step 1: Roof Inspection & Assessment",
+          "Step 2: Material Selection & Estimate",
+          "Step 3: Roof Repair or Replacement",
+          "Step 4: Cleanup & Final Inspection"
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs that you may need a new roof include missing or damaged shingles, leaks in your attic, and excessive granule loss. We can provide a free roof inspection to assess the condition of your roof."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement takes between 1-3 days, depending on the size and complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What are the best roofing materials for Wichita?",
+            "answer": "Asphalt shingles are a popular and affordable option, while metal roofing offers superior durability and longevity. We can help you choose the best roofing materials based on your budget, style, and performance requirements."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Enhance your home's beauty and protection with new siding.",
+        "description": "Anew Contruccion & Renovation LLC provides professional siding installation services to enhance your home's curb appeal and protect it from the elements. Whether you're looking to replace your existing siding or install new siding on a newly constructed home, we have the expertise to deliver exceptional results.\n\nOur siding installation services include material selection, removal of old siding, installation of new siding, and finishing touches. We work with a variety of siding materials, including vinyl siding, fiber cement siding, and wood siding, ensuring that your new siding is both aesthetically pleasing and durable.\n\nWe understand the importance of properly installed siding in Wichita to protect your home from wind, rain, and hail. We'll ensure that your siding is installed to code and meets our high standards of quality.\n\nWe handle all aspects of the project, ensuring that all work is done safely and efficiently. We also pay close attention to detail, ensuring that every element of your new siding is perfectly installed and finished. From trim and flashing to soffit and fascia, we'll create a siding system that will protect and beautify your home for years to come.",
+        "process": [
+          "Step 1: Siding Consultation & Selection",
+          "Step 2: Removal of Old Siding",
+          "Step 3: Installation of New Siding",
+          "Step 4: Finishing & Detailing"
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Improved Energy Efficiency",
+          "Protection from the Elements",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to install new siding in Wichita?",
+            "answer": "The cost of installing new siding varies depending on the size of your home, the type of siding you choose, and the complexity of the installation. We'll provide a detailed estimate based on your specific needs and preferences."
+          },
+          {
+            "question": "How long does siding installation take?",
+            "answer": "A typical siding installation takes between 1-2 weeks, depending on the size and complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What are the best siding materials for Wichita?",
+            "answer": "Vinyl siding is a popular and affordable option, while fiber cement siding offers superior durability and longevity. We can help you choose the best siding materials based on your budget, style, and performance requirements."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Wichita",
+        "slug": "wichita-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC is proud to serve the Wichita, Kansas area with top-quality general contractor services. We understand the unique needs of Wichita homeowners and businesses, and we're committed to providing exceptional craftsmanship and customer service on every project. Whether you're looking to remodel your kitchen, add a new room, or build a custom home, our team has the experience and expertise to bring your vision to life.\n\nWe're familiar with Wichita's diverse neighborhoods, from the historic homes of College Hill to the modern developments in Maize. We're also experienced in navigating local building codes and regulations, ensuring that your project is completed safely, efficiently, and to the highest standards. Anew Contruccion & Renovation LLC is dedicated to building lasting relationships with our clients in Wichita and contributing to the growth and prosperity of our community.",
+        "localContext": "Wichita is a vibrant city known for its aerospace industry, cultural attractions, and friendly Midwestern atmosphere.",
+        "nearbyAreas": [
+          "Derby",
+          "Andover",
+          "Goddard"
+        ]
+      },
+      {
+        "city": "Andover",
+        "slug": "andover-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC extends its exceptional general contractor services to the residents and businesses of Andover, Kansas. We understand the specific needs of this growing community and are dedicated to delivering high-quality workmanship and unparalleled customer satisfaction. Whether you're envisioning a kitchen remodel, a bathroom renovation, or a complete home addition, our team possesses the expertise to transform your dreams into reality.\n\nWe're well-versed in the architectural styles prevalent in Andover and are committed to using only the finest materials to ensure the longevity and beauty of your project. Anew Contruccion & Renovation LLC is dedicated to contributing to the thriving community of Andover by providing reliable and professional construction services.",
+        "localContext": "Andover is a family-friendly city recognized for its excellent schools and community spirit, located just east of Wichita.",
+        "nearbyAreas": [
+          "Wichita",
+          "Augusta",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Derby",
+        "slug": "derby-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC is pleased to offer our comprehensive general contractor services to the community of Derby, Kansas. We recognize the distinct characteristics of Derby homes and businesses, and we are committed to providing exceptional craftsmanship and personalized service for every project. From kitchen and bathroom remodels to basement finishing and new construction, our team has the skills and experience to exceed your expectations.\n\nWe're familiar with the building codes and regulations in Derby, ensuring that your project is completed safely, efficiently, and in compliance with all local requirements. Anew Contruccion & Renovation LLC is dedicated to building strong relationships with our clients in Derby and contributing to the continued growth and prosperity of this vibrant city.",
+        "localContext": "Derby is a rapidly growing suburb of Wichita, known for its family-friendly environment and community events.",
+        "nearbyAreas": [
+          "Wichita",
+          "Mulvane",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Goddard",
+        "slug": "goddard-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC proudly serves the residents and businesses of Goddard, Kansas, with reliable and professional general contractor services. We understand the unique needs of this growing community and are committed to delivering exceptional results on every project. Whether you're looking to update your kitchen, renovate your bathroom, or build a new deck, our team has the expertise and dedication to bring your vision to life.\n\nWe're familiar with the architectural styles and building codes in Goddard, ensuring that your project is completed to the highest standards of quality and safety. Anew Contruccion & Renovation LLC is dedicated to providing exceptional service and building lasting relationships with our clients in Goddard.",
+        "localContext": "Goddard is a thriving community located west of Wichita, known for its excellent schools and welcoming atmosphere.",
+        "nearbyAreas": [
+          "Wichita",
+          "Maize",
+          "Cheney"
+        ]
+      },
+      {
+        "city": "Maize",
+        "slug": "maize-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC is dedicated to providing top-notch general contractor services to the residents and businesses of Maize, Kansas. We understand the unique needs of this growing city and are committed to delivering exceptional craftsmanship and customer service on every project. Whether you're planning a kitchen remodel, a bathroom renovation, or a complete home addition, our team has the skills and experience to exceed your expectations.\n\nWe're familiar with the local building codes and regulations in Maize, ensuring that your project is completed safely, efficiently, and in compliance with all requirements. Anew Contruccion & Renovation LLC is dedicated to building lasting relationships with our clients in Maize and contributing to the continued growth and prosperity of our community.",
+        "localContext": "Maize is a fast-growing city located northwest of Wichita, known for its excellent schools and family-friendly environment.",
+        "nearbyAreas": [
+          "Wichita",
+          "Goddard",
+          "Colwich"
+        ]
+      },
+      {
+        "city": "Valley Center",
+        "slug": "valley-center-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC extends its quality general contractor services to Valley Center, Kansas. We understand the needs of homeowners and businesses in this area and are committed to delivering exceptional craftsmanship and customer satisfaction on every project, big or small. If you want to remodel your kitchen, build a new deck, or add a room, our team has the expertise to make it happen.\n\nWe are familiar with Valley Center's building codes and regulations, ensuring that your project is completed safely and efficiently. Anew Contruccion & Renovation LLC is dedicated to building strong relationships with our clients and contributing to the growth of the Valley Center community.",
+        "localContext": "Valley Center is a close-knit community north of Wichita, known for its small-town charm and community events.",
+        "nearbyAreas": [
+          "Park City",
+          "Wichita",
+          "Kechi"
+        ]
+      },
+      {
+        "city": "Park City",
+        "slug": "park-city-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC is proud to offer general contractor services to Park City, Kansas. We are familiar with the unique needs of this community and are dedicated to providing quality workmanship and excellent customer service. Whether you are looking to remodel your home or expand your business, our team is ready to help.\n\nWe are experienced with Park City's local building codes, ensuring your project is completed efficiently and safely. Anew Contruccion & Renovation LLC is committed to building lasting relationships and contributing to the growth of Park City.",
+        "localContext": "Park City is a growing suburb north of Wichita, offering a mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Valley Center",
+          "Wichita",
+          "Bel Aire"
+        ]
+      },
+      {
+        "city": "Haysville",
+        "slug": "haysville-ks",
+        "state": "KS",
+        "content": "Anew Contruccion & Renovation LLC provides reliable general contractor services to Haysville, Kansas. We understand the specific needs of this community and are committed to delivering high-quality workmanship and customer satisfaction. From home renovations to commercial projects, our team has the skills and experience to meet your needs.\n\nWe are knowledgeable about Haysville's building codes and regulations, ensuring that your project is completed safely and efficiently. Anew Contruccion & Renovation LLC is dedicated to building strong relationships with our clients and contributing to the development of Haysville.",
+        "localContext": "Haysville is a residential community south of Wichita, known for its schools and parks.",
+        "nearbyAreas": [
+          "Wichita",
+          "Clearwater",
+          "Mulvane"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "Anew Contruccion & Renovation did an amazing job remodeling our master bathroom! They helped us pick out beautiful tile and fixtures, and the whole process was so smooth. Our new walk-in shower is my favorite part. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John M.",
+        "rating": 4,
+        "service": "Roofing Services",
+        "text": "We had some storm damage to our roof after a bad hailstorm. Anew Contruccion & Renovation came out quickly and provided a fair estimate for the repairs. They were professional and efficient, and our roof looks great now. Would use them again.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "We absolutely love our new kitchen! Anew Contruccion & Renovation helped us design a functional and beautiful space that perfectly fits our needs. The team was communicative throughout the entire process, and we couldn't be happier with the results. Special thanks to the project manager, David, for his attention to detail.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Anew Contruccion & Renovation transformed our unfinished basement into a fantastic family room. They were professional, reliable, and the quality of their work is outstanding. They even added a small bathroom downstairs for us. Very happy with the outcome!",
+        "date": "2025-02-22"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Deck & Patio Construction",
+        "text": "We hired Anew Contruccion & Renovation to build a new deck in our backyard. The deck is beautiful and well-built. There were a few minor delays due to weather, but the team communicated clearly and kept us informed. Overall, a great experience.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Our old siding was looking pretty rough, so we decided to replace it. Anew Contruccion & Renovation did a fantastic job installing new vinyl siding on our home. The house looks brand new! The crew was efficient and cleaned up everything afterwards. Highly recommend their siding services.",
+        "date": "2025-04-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Anew Contruccion: Wichita Contractor",
+        "description": "Trusted Wichita contractor for kitchen/bath remodeling, roofing, decks, basements. Free quotes! Call +13163059287"
+      },
+      "about": {
+        "title": "About Anew Contruccion & Renovation",
+        "description": "Learn about Anew Contruccion & Renovation LLC, a Wichita, KS general contractor. Quality, local expertise, customer satisfaction."
+      },
+      "services": {
+        "title": "Wichita KS Contractor Services",
+        "description": "Anew Contruccion & Renovation offers remodeling, roofing, decks, siding & more in Wichita, KS. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Anew Contruccion & Renovation",
+        "description": "Contact Anew Contruccion & Renovation LLC for your Wichita, KS remodeling and construction needs. Call +13163059287 for a free quote!"
+      },
+      "reviews": {
+        "title": "Anew Contruccion Customer Reviews",
+        "description": "See what our satisfied customers in Wichita, KS are saying about Anew Contruccion & Renovation. Read our 5-star reviews!"
+      },
+      "service-areas": {
+        "title": "Anew Contruccion Service Areas",
+        "description": "Anew Contruccion & Renovation provides contracting services in Wichita, KS and surrounding areas. Call +13163059287 for service near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation": "/images/service-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

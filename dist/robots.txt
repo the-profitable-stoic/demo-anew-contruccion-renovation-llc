@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-anew-contruccion-renovation-llc.dream-surge.com/sitemap-index.xml
